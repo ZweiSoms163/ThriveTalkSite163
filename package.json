@@ -7,10 +7,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZweiSoms163/ThriveTalkSite.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "bugs": {
+    "url": "https://github.com/ZweiSoms163/ThriveTalkSite/issues"
+  },
+  "dependencies": {
     "gh-pages": "^4.0.0"
   }
 }
